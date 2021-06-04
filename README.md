@@ -15,14 +15,12 @@ git clone https://github.com/benjatestaferri7/E-Commerce-js
 
 cd \E-Comerce-js\
 
-'npm' install
+npm install
 
-'npm' start
+npm start
 
 Open with the code editor you prefer and edit what you need
 
-
-```
 
 ```
 
